@@ -7,6 +7,7 @@ Here is my resume which contains some information about my education, experience
 - [Linkdin](https://www.linkedin.com/in/harshalpardeshi)
 - [Twitter](https://twitter.com/harshal258)
 
+
 # Feedback
 
 If you have any feedback or queries, please reach out to me at pardeshiharshal90@gmail.com.
