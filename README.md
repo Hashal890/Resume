@@ -15,4 +15,4 @@ If you have any feedback or queries, please reach out to me at pardeshiharshal90
 
 # Note
 
-If external links are not working in given resume pdf you can access with [Google Drive](https://drive.google.com/file/d/1eo6ZOSHSIb4brjK1_bmFpCNnZJNWavW6/view?usp=sharing) link.
+If external links are not working in given resume pdf you can access with [Google Drive](https://drive.google.com/file/d/1pV8XBrEE6ZaN5BbITcfE215MNNCLl94z/view?usp=sharing) link.
